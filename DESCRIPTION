@@ -1,6 +1,6 @@
 Package: attention
 Title: Self-Attention Algorithm
-Version: 0.3.0
+Version: 0.4.0
 Authors@R: 
     person("Bastiaan", "Quast", , "bquast@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2951-3577"))
@@ -12,8 +12,8 @@ Suggests: covr, knitr, rmarkdown, testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-04-23 14:55:45 UTC; bquast
+Packaged: 2023-11-10 00:29:14 UTC; bquast
 Author: Bastiaan Quast [aut, cre] (<https://orcid.org/0000-0002-2951-3577>)
 Maintainer: Bastiaan Quast <bquast@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-04-23 15:50:02 UTC
+Date/Publication: 2023-11-10 03:10:02 UTC
